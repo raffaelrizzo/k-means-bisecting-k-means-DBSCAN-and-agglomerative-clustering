@@ -1,2 +1,2 @@
 # k-means-bisecting-k-means-DBSCAN-and-agglomerative-clustering
-I used the Wholesale dataset from the UCI Machine Learning Repository to cluster shopping behavior of clients on diverse products.
+I used the Wholesale dataset from the UCI Machine Learning Repository to cluster shopping behavior of clients on diverse products using k-means, bisecting k-means, DBSCAN and agglomerative clustering algorithms. Afterwards I evaluated the outcome of the algorithms by comparing the intra-cluster to inter-cluster distance ratio and the silhouette score.
